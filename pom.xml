@@ -24,7 +24,7 @@
 <configuration>
 <archive>
 <manifest>
-<mainClass>com.example.App</mainclass>
+<mainClass>com.example.App</mainClass>
 </manifest>
 </archive>
 </configuration>
